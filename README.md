@@ -13,13 +13,13 @@ Implementing real coded genetic algorithm to arrange optimal nutrition compositi
 
 ### Settings
 
-popSize=10
-Iterasi=50
-Crossover method= One Cut Point
-Mutation method : Exchange Reciprocal
-Selection: Elitism
+* popSize=10
+* Iterasi=50
+* Crossover method= One Cut Point
+* Mutation method : Exchange Reciprocal
+* Selection: Elitism
 
 ### Developer:
-Dinda Novitasari
-labworks.dindanovitasari.com
-id.dindanovitasari[at]gmail.com
+* Dinda Novitasari
+* labworks.dindanovitasari.com
+* id.dindanovitasari[at]gmail.com
