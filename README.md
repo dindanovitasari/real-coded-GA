@@ -21,5 +21,5 @@ Implementing real coded genetic algorithm to arrange optimal nutrition compositi
 
 ### Developer:
 * Dinda Novitasari
-* labworks.dindanovitasari.com
+* dindanovitasari.github.io
 * id.dindanovitasari[at]gmail.com
