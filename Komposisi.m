@@ -1,6 +1,5 @@
 function varargout = Komposisi(varargin)
-% % Author: Dinda Novitasari 115060800111007
-% % dindanovz | labworks - research and code
+% % Author: Dinda Novitasari
 % KOMPOSISI M-file for Komposisi.fig
 %      KOMPOSISI, by itself, creates a new KOMPOSISI or raises the existing
 %      singleton*.
